@@ -1,4 +1,4 @@
-class Yabai < Formula
+class Yabao < Formula
   desc "A tiling window manager for macOS based on binary space partitioning."
   homepage "https://github.com/yangtau/yabai"
   url "https://github.com/yangtau/yabai/releases/download/v3.3.10/yabai-v3.3.10.tar.gz"
